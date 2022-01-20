@@ -1,2 +1,3 @@
-import /etc/caddy/deadsfu.caddy
-import /etc/caddy/cameronelliott.caddy
+# this may import stuff like deadsfu.caddy or cameronelliott.caddy
+
+import /etc/caddy/*.caddy
