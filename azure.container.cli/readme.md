@@ -1,29 +1,29 @@
 
 
-
-- [DeadSFU OBS Streaming from Azure Container using CLI -- Q4/2021](#deadsfu-obs-streaming-from-azure-container-using-cli----q42021)
-  - [What You Will Learn](#what-you-will-learn)
-  - [Thanks](#thanks)
-  - [Create Azure Account](#create-azure-account)
-  - [Stopping Instances and Costs](#stopping-instances-and-costs)
-  - [Installing the Azure CLI command](#installing-the-azure-cli-command)
-  - [Logging into Azure from the CLI](#logging-into-azure-from-the-cli)
-  - [Creating a Resource Group](#creating-a-resource-group)
-  - [Create the Container Json Template File](#create-the-container-json-template-file)
-  - [Launch Your Container](#launch-your-container)
-  - [Get The IP Address](#get-the-ip-address)
-  - [Open DeadSFU Receive Page](#open-deadsfu-receive-page)
-  - [Confirm You See The DeadSFU Viewer Page](#confirm-you-see-the-deadsfu-viewer-page)
-  - [Optional: Test the OBS FTL Port](#optional-test-the-obs-ftl-port)
-  - [Check OBS Version >= 27.0.1](#check-obs-version--2701)
-  - [Configure a Camera or Test Source](#configure-a-camera-or-test-source)
-  - [Launch OBS & Configure FTL](#launch-obs--configure-ftl)
-  - [Start Streaming](#start-streaming)
-  - [Cleanup: How to Stop the Container When You Are Done](#cleanup-how-to-stop-the-container-when-you-are-done)
-  - [Whats Next? / Email Newsletter](#whats-next--email-newsletter)
-
-
+<!-- omit in toc -->
 ## DeadSFU OBS Streaming from Azure Container using CLI -- Q4/2021
+
+
+- [What You Will Learn](#what-you-will-learn)
+- [Thanks](#thanks)
+- [Create Azure Account](#create-azure-account)
+- [Stopping Instances and Costs](#stopping-instances-and-costs)
+- [Installing the Azure CLI command](#installing-the-azure-cli-command)
+- [Logging into Azure from the CLI](#logging-into-azure-from-the-cli)
+- [Creating a Resource Group](#creating-a-resource-group)
+- [Create the Container Json Template File](#create-the-container-json-template-file)
+- [Launch Your Container](#launch-your-container)
+- [Get The IP Address](#get-the-ip-address)
+- [Open DeadSFU Receive Page](#open-deadsfu-receive-page)
+- [Confirm You See The DeadSFU Viewer Page](#confirm-you-see-the-deadsfu-viewer-page)
+- [Optional: Test the OBS FTL Port](#optional-test-the-obs-ftl-port)
+- [Check OBS Version >= 27.0.1](#check-obs-version--2701)
+- [Configure a Camera or Test Source](#configure-a-camera-or-test-source)
+- [Launch OBS & Configure FTL](#launch-obs--configure-ftl)
+- [Start Streaming](#start-streaming)
+- [Cleanup: How to Stop the Container When You Are Done](#cleanup-how-to-stop-the-container-when-you-are-done)
+- [Whats Next? / Email Newsletter](#whats-next--email-newsletter)
+
 
 
 
