@@ -1,0 +1,3 @@
+# this may import stuff like deadsfu.caddy or cameronelliott.caddy
+
+import /etc/caddy/*.caddy

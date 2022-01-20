@@ -1,3 +1,5 @@
-# this may import stuff like deadsfu.caddy or cameronelliott.caddy
+:80
 
-import /etc/caddy/*.caddy
+#uri strip_prefix /dead-down
+
+file_server
