@@ -1,0 +1,5 @@
+:80
+
+#uri strip_prefix /dead-down
+
+file_server
