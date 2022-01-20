@@ -1,0 +1,7 @@
+
+
+# .png and .mp4 do not get stored in git,
+# we must have a regular backup besides git
+
+*.png
+*.mp4
