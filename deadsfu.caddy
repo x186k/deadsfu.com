@@ -1,0 +1,4 @@
+deadsfu.com:80 {
+    root * /var/www/html/deadsfu
+    file_server
+}
