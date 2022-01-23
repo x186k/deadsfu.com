@@ -1,7 +1,8 @@
 
 
 <!-- omit in toc -->
-## DeadSFU OBS Streaming from Azure Container using CLI -- Q4/2021
+## DeadSFU OBS Streaming from Azure Container using CLI
+_Posted Q4 2021_
 
 
 - [What You Will Learn](#what-you-will-learn)
