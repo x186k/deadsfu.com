@@ -7,10 +7,6 @@ DeadSFU is a work in progress, and is currently pre-release.
 I am happy to fully help anyone who'd like to use DeadSFU at this stage.
 
 
-<script>
-    console.log(999)
-    document.title = "DeadSFU Main Site"
-</script>
 
 ## Links
 
